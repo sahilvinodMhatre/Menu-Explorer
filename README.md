@@ -1,4 +1,4 @@
-# Hotel Menu
+# Menu-Explorer 
 A website designed to automatically retrieve menu cards for customers/clients.
 
 Note: The site is only optimized for mobile devices.
